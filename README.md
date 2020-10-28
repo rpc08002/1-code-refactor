@@ -11,6 +11,6 @@ the CSS selectors to follow semantic structure, and commenting the CSS and HTML 
 ## Mock Up 
 The following image shows the web application's appearance and functionality:
 
-![code refactor](horiseon.png)
+![code refactor](Screenshot/horiseon.png)
 
 [demo]: https://rpc08002.github.io/1-code-refractor/.
