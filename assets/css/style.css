@@ -55,15 +55,6 @@ header h1 .seo {
 }
 /* Hero section stops */
 
-.header div ul {
-    list-style-type: none;
-}
-
-.header div ul li {
-    display: inline-block;
-    margin-left: 25px;
-}
-
 p {
     font-size: 16px;
 }
