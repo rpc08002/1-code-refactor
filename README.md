@@ -13,4 +13,4 @@ The following image shows the web application's appearance and functionality:
 
 ![code refactor](Screenshot/horiseon.png)
 
-[demo]: https://rpc08002.github.io/1-code-refractor/.
+[demo]: https://rpc08002.github.io/1-code-refactor/.
