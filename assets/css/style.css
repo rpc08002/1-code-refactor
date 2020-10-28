@@ -59,6 +59,8 @@ header nav {
 }
 /* Hero section stops */
 
+/* Content section begins */
+
 .content {
     width: 75%;
     display: inline-block;
@@ -92,6 +94,8 @@ header nav {
     float: right;
     margin-left: 25px;
 }
+
+/* Content section ends */
 
 .benefits {
     margin-right: 20px;
