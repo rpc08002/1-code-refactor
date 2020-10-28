@@ -97,6 +97,8 @@ header nav {
 
 /* Content section ends */
 
+/*benefits section start */
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -108,29 +110,25 @@ header nav {
     background-color: #2589bd;
 }
 
-.benefit-lead,
-.benefit-brand,
-.benefit-cost {
+.benefit article {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-lead h3,
-.benefit-brand h3,
-.benefit-cost h3 {
+.benefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-lead img,
-.benefit-brand img,
-.benefit-cost img {
+.benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-/* Styling for footer section */
+/*benefits section end */
+
+/* Footer section begins */
 
 .footer {
     padding: 30px;
@@ -142,3 +140,4 @@ header nav {
 .footer h2 {
     font-size: 20px;
 }
+/* Footer section ends */
