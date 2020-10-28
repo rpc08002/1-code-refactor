@@ -17,6 +17,8 @@ a {
     padding: 15px;
 }
 
+/* Header section starts */
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -37,9 +39,11 @@ header nav {
     font-size: 20px;
 }
 
-.header h1 .seo {
+header h1 .seo {
     color: #d9dcd6;
 }
+
+/* Header section stop */
 
 .header div ul {
     list-style-type: none;
