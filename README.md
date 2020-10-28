@@ -1,4 +1,4 @@
-# Code Refractor
+# Code Refactor
 ##  Description
 This assignment was received as part of the UCONN Coding Boot Camp.
 The goal was to refactor the intial code received that followed accessiblity standards, allowing the site to be optimized for search engines.  
